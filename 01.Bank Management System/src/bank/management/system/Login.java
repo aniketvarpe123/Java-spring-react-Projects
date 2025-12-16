@@ -50,7 +50,7 @@ public class Login extends JFrame implements ActionListener {
         pinTextField.setBounds(300, 220, 230, 30);
         add(pinTextField);
 
-        login = new JButton("SIGN IN");
+        login = new JButton("LOGIN");
         login.setBounds(300, 300, 100, 30);
         login.setBackground(Color.BLACK);
         login.setForeground(Color.WHITE);
